@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"bawolff"
+		]
+	},
+	"nocat-desc": "Adds a <code><nowiki>__NOCAT__</nowiki></code> magic word to disable categories on a page",
+	"nocat-warning": "<strong>Warning:</strong> Categories have been disabled on this page."
+}
