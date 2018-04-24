@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Metalhead64"
+		]
+	},
+	"nocat-desc": "Ergänzt das magische Wort <code><nowiki>__NOCAT__</nowiki></code> zur Deaktivierung von Kategorien auf einer Seite",
+	"nocat-warning": "<strong>Warnung:</strong> Kategorien wurden auf dieser Seite deaktiviert."
+}

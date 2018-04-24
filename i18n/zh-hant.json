@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kly"
+		]
+	},
+	"nocat-desc": "添加 <code><nowiki>__NOCAT__</nowiki></code> 魔術字來停用在頁面的分類",
+	"nocat-warning": "<strong>警告：</strong>分類已在此頁面上停用。"
+}

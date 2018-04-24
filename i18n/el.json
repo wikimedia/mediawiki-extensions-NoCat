@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nikosgranturismogt"
+		]
+	},
+	"nocat-desc": "Προσθέτει τη μαγική λέξη <code><nowiki>__NOCAT__</nowiki></code> που απενεργοποιεί τις κατηγορίες σε μια σελίδα",
+	"nocat-warning": "<strong>Προειδοποίηση:</strong> Οι κατηγορίες έχουν απενεργοποιηθεί σε αυτή τη σελίδα."
+}

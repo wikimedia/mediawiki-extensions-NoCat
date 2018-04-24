@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido"
+		]
+	},
+	"nocat-desc": "Añade la palabra mágica <code><nowiki>__NOCAT__</nowiki></code> para desactivar la categorización en las páginas",
+	"nocat-warning": "<strong>Atención:</strong> se desactivaron las categorías en esta página."
+}
