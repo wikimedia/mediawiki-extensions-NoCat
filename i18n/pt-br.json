@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eduardo Addad de Oliveira"
+		]
+	},
+	"nocat-desc": "Acrescenta a palavra mágica <code><nowiki>__NOCAT__</nowiki></code> para desativar a categorização das páginas",
+	"nocat-warning": "<strong>Aviso:</strong> As categorias foram desativadas nesta página."
+}

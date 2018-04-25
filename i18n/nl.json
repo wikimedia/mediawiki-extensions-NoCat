@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mainframe98"
+		]
+	},
+	"nocat-desc": "Voegt het magische woord <code><nowiki>__NOCAT__</nowiki></code> toe om categorieën uit te schakelen voor een pagina",
+	"nocat-warning": "<strong>Let op:</strong> Categorieën zijn uitgeschakeld op deze pagina."
+}
