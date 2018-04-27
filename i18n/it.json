@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sarah Bernabei"
+		]
+	},
+	"nocat-desc": "Aggiungere le parole magiche <code><nowiki>_NOCAT_<nowiki><code> per disattivare le categorie su una pagina",
+	"nocat-warning": "<strong>Attenzione:</strong> Le categorie sono state disattivate su questa pagina."
+}
