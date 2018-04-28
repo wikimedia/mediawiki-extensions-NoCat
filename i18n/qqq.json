@@ -4,6 +4,6 @@
 			"bawolff"
 		]
 	},
-	"nocat-desc": "{{desc|name=NoCat|url=https://www.mediawiki.org/wiki/Extension:NoCat}}"
+	"nocat-desc": "{{desc|name=NoCat|url=https://www.mediawiki.org/wiki/Extension:NoCat}}",
 	"nocat-warning": "Warning shown during page preview if categories have been disabled for this page via the <nowiki>__NOCAT__</nowiki> magic word."
 }
