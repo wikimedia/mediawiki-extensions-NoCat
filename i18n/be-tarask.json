@@ -4,5 +4,6 @@
 			"Red Winged Duck"
 		]
 	},
-	"nocat-desc": "Дадае магічнае слова <code><nowiki>__NOCAT__</nowiki></code> для адключэньня катэгорыяў на старонцы"
+	"nocat-desc": "Дадае магічнае слова <code><nowiki>__NOCAT__</nowiki></code> для адключэньня катэгорыяў на старонцы",
+	"nocat-warning": "<strong>Папярэджаньне:</strong> катэгорыі былі адключаныя на гэтай старонцы."
 }
