@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"ديفيد"
+		]
+	},
+	"nocat-desc": "يضيف الكلمة السحرية <code><nowiki>__NOCAT__</nowiki></code> لتعطيل التصنيفات في الصفحة",
+	"nocat-warning": "<strong>تحذير:</strong> تم تعطيل التصنيفات في هذه الصفحة."
+}
