@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jon Harald Søby"
+		]
+	},
+	"nocat-desc": "Legger til det magiske ordet <code><nowiki>__NOCAT__</nowiki></code> for å slå av kategorier på ei side",
+	"nocat-warning": "<strong>Advarsel:</strong> Kategorier har blitt slått av på denne siden."
+}
