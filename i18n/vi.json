@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Leducthn"
+		]
+	},
+	"nocat-desc": "Thêm từ phép thuật <code><nowiki>__NOCAT__</nowiki></code> để tắt mục thể loại trên một trang",
+	"nocat-warning": "<strong>Cảnh báo:</strong> Mục thể loại đã bị tắt cho trang này."
+}
