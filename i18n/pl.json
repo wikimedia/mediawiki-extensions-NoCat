@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Chrumps"
+			"Chrumps",
+			"Railfail536"
 		]
 	},
+	"nocat-desc": "Dodaje magiczne słowo <code><nowiki>__NOCAT__</nowiki></code> aby wyłączyć kategorie dla określonej strony",
 	"nocat-warning": "<strong>Ostrzeżenie:</strong> Kategorie na tej stronie zostały wyłączone."
 }
