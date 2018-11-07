@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vlad5250"
+		]
+	},
+	"nocat-desc": "Добавляет волшебное слово <code><nowiki>__NOCAT__</nowiki></code> для отключения категорий на странице",
+	"nocat-warning": "<strong>Предупреждение:</strong> На этой странице отключены категории."
+}
