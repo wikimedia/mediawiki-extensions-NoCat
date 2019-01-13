@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Piramidion"
+		]
+	},
+	"nocat-desc": "Додає магічне слово <code><nowiki>__NOCAT__</nowiki></code> для вимкнення категорій на сторінці",
+	"nocat-warning": "<strong>Попередження:</strong> Категорії на цій сторінці вимкнено."
+}
