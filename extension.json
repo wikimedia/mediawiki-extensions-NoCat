@@ -21,10 +21,7 @@
 		"NoCatHooks": "NoCatHooks.php"
 	},
 	"config": {
-		"NoCatShowCat": false,
-		"ParserOutputHooks": {
-			"nocat_fakecategories": "NoCatHooks::noCatParserOutputHook"
-		}
+		"NoCatShowCat": false
 	},
 	"Hooks": {
 		"GetDoubleUnderscoreIDs": [
@@ -32,6 +29,9 @@
 		],
 		"ParserAfterParse": [
 			"NoCatHooks::onParserAfterParse"
+		],
+		"OutputPageParserOutput": [
+			"NoCatHooks::onOutputPageParserOutput"
 		]
 	},
 	"manifest_version": 1

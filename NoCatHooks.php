@@ -25,14 +25,22 @@ class NoCatHooks {
 			$old = $pout->setCategoryLinks( [] );
 			$pout->addWarning( wfMessage( 'nocat-warning' )->text() );
 			if ( $wgNoCatShowCat ) {
-				$pout->addOutputHook( 'nocat_fakecategories', $old );
+				$pout->setExtensionData( 'nocat_fakecategories', $old );
 			}
 		}
 	}
-
-	public static function noCatParserOutputHook( OutputPage $out, ParserOutput $parserOutput, $data ) {
-		if ( $out->getConfig()->get( 'NoCatShowCat' ) && $data ) {
-			$out->addCategoryLinks( $data );
+	/**
+	 * Add removed categories as links if configured to do so.
+	 *
+	 * @param OutputPage $out
+	 * @param ParserOutput $pout
+	 */
+	public static function onOutputPageParserOutput( OutputPage $out, ParserOutput $pout) {
+		if ( $out->getConfig()->get( 'NoCatShowCat' ) ) {
+			$cats = $pout->getExtensionData( 'nocat_fakecategories' );
+			if ( $cats ) {
+				$out->addCategoryLinks( $cats );
+			}
 		}
 	}
 }
