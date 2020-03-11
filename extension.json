@@ -24,15 +24,9 @@
 		"NoCatShowCat": false
 	},
 	"Hooks": {
-		"GetDoubleUnderscoreIDs": [
-			"NoCatHooks::onGetDoubleUnderscoreIDs"
-		],
-		"ParserAfterParse": [
-			"NoCatHooks::onParserAfterParse"
-		],
-		"OutputPageParserOutput": [
-			"NoCatHooks::onOutputPageParserOutput"
-		]
+		"GetDoubleUnderscoreIDs": "NoCatHooks::onGetDoubleUnderscoreIDs",
+		"ParserAfterParse": "NoCatHooks::onParserAfterParse",
+		"OutputPageParserOutput": "NoCatHooks::onOutputPageParserOutput"
 	},
 	"manifest_version": 1
 }
