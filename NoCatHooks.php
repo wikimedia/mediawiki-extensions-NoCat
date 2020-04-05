@@ -4,7 +4,7 @@ class NoCatHooks {
 	/**
 	 * Add __NOCAT__
 	 *
-	 * @param Array $doubleUnderscoreIDs list of ids
+	 * @param Array &$doubleUnderscoreIDs list of ids
 	 */
 	public static function onGetDoubleUnderscoreIDs( array &$doubleUnderscoreIDs ) {
 		$doubleUnderscoreIDs[] = 'nocat';
@@ -29,13 +29,14 @@ class NoCatHooks {
 			}
 		}
 	}
+
 	/**
 	 * Add removed categories as links if configured to do so.
 	 *
 	 * @param OutputPage $out
 	 * @param ParserOutput $pout
 	 */
-	public static function onOutputPageParserOutput( OutputPage $out, ParserOutput $pout) {
+	public static function onOutputPageParserOutput( OutputPage $out, ParserOutput $pout ) {
 		if ( $out->getConfig()->get( 'NoCatShowCat' ) ) {
 			$cats = $pout->getExtensionData( 'nocat_fakecategories' );
 			if ( $cats ) {
