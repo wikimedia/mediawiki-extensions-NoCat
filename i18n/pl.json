@@ -2,8 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Chrumps",
-			"Rail",
-			"Railfail536"
+			"Rail"
 		]
 	},
 	"nocat-desc": "Dodaje magiczne słowo <code><nowiki>__NOCAT__</nowiki></code> aby wyłączyć kategorie dla określonej strony",
