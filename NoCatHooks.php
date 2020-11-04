@@ -4,7 +4,7 @@ class NoCatHooks {
 	/**
 	 * Add __NOCAT__
 	 *
-	 * @param Array &$doubleUnderscoreIDs list of ids
+	 * @param array &$doubleUnderscoreIDs list of ids
 	 */
 	public static function onGetDoubleUnderscoreIDs( array &$doubleUnderscoreIDs ) {
 		$doubleUnderscoreIDs[] = 'nocat';
