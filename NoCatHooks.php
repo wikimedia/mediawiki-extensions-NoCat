@@ -21,7 +21,8 @@ class NoCatHooks {
 	public static function onParserAfterParse( Parser $parser, $text, $stripState ) {
 		global $wgNoCatShowCat;
 		$pout = $parser->getOutput();
-		if ( $pout->getPageProperty( 'nocat' ) !== false ) {
+		// T301915
+		if ( ( $pout->getPageProperty( 'nocat' ) ?? false ) !== false ) {
 			$old = $pout->setCategories( [] );
 			$pout->addWarning( wfMessage( 'nocat-warning' )->text() );
 			if ( $wgNoCatShowCat ) {
