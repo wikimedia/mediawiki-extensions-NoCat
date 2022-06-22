@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Guycn2"
+			"Guycn2",
+			"Amire80"
 		]
 	},
 	"nocat-desc": "הוספת מילת הקסם <code><nowiki>__NOCAT__</nowiki></code> המשמשת לביטול הוספת קטגוריות לדף",
-	"nocat-warning": "<strong>אזהרה:</strong> האפשרות להוסיף קטגוריות בוטלה בדף זה."
+	"nocat-warning": "<strong>אזהרה:</strong> האפשרות להוסיף קטגוריות בוטלה בדף הזה."
 }
