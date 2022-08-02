@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gomoko"
+			"Gomoko",
+			"Verdy p"
 		]
 	},
 	"nocat-desc": "Ajoute un mot magique <code><nowiki>__NOCAT__</nowiki></code> pour désactiver les catégories sur une page",
-	"nocat-warning": "<strong>Avertissement :</strong> Les catégories ont été désactivées sur cette page."
+	"nocat-warning": "<strong>Avertissement :</strong> les catégories ont été désactivées sur cette page."
 }
