@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"nocat-desc": "Adde le parola magic <code><nowiki>__NOCAT__</nowiki></code> pro disactivar le categorias sur un pagina",
+	"nocat-warning": "<strong>Attention:</strong> Le categorias ha essite disactivate sur iste pagina."
+}
