@@ -23,7 +23,7 @@ class NoCatHooks {
 		$pout = $parser->getOutput();
 		if ( $pout->getPageProperty( 'nocat' ) !== null ) {
 			$old = $pout->setCategories( [] );
-			$pout->addWarning( wfMessage( 'nocat-warning' )->text() );
+			$pout->addWarningMsg( 'nocat-warning' );
 			if ( $wgNoCatShowCat ) {
 				$pout->setExtensionData( 'nocat_fakecategories', $old );
 			}
