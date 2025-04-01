@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ykhwong"
+			"Ykhwong",
+			"Tensama0415"
 		]
 	},
+	"nocat-desc": "문서에 대한 분류를 비활성화하는 매직 워드 <code><nowiki>__NOCAT__</nowiki></code> 를 추가합니다",
 	"nocat-warning": "<strong>경고:</strong> 이 문서에 분류가 비활성화되어 있습니다."
 }
