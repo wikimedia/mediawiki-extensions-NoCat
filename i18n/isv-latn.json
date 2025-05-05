@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"IJzeren Jan"
+		]
+	},
+	"nocat-desc": "Dodavaje magično slovo <code>__NOCAT__</code> za izključenje kategorij na stranici",
+	"nocat-warning": "<strong>Čuvanje:</strong> Na tutoj stranici kategorije sut izključene."
+}
