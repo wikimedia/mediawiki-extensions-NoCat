@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Stefan2255"
+		]
+	},
+	"nocat-desc": "Lägger till en <code><nowiki>__NOCAT__</nowiki></code> magiskt ord för att inaktivera kategorier på en sida",
+	"nocat-warning": "<strong>Varning:</strong> Kategorier har inaktiverats på den här sidan."
+}
