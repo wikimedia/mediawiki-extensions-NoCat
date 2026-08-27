@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wizzard"
+		]
+	},
+	"nocat-desc": "Pridáva magické slovo <code><nowiki>__NOCAT__</nowiki></code> na vypnutie kategórií na stránke",
+	"nocat-warning": "<strong>Upozornenie:</strong> Kategórie boli na tejto stránke vypnuté."
+}
